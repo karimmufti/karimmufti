@@ -1,5 +1,5 @@
 <h1 align="center">Kareem Muftee</h1>
-<h3 align="center">Frontend developer focused on perfecting the art of Full Stack Developement</h3>
+<h3>Frontend developer focused on perfecting the art of Full Stack Developement</h3>
 
 <h3 >Connect with me:</h3>
 <p >
