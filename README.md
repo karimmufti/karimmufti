@@ -1,7 +1,7 @@
 <h1 align="center">Kareem Muftee</h1>
 <h3>Frontend developer focused on perfecting the art of Full Stack Developement  <br>
  A good program brings in new customers, but good UI is what makes them stay  <br>
-I look forward to working software design and making an impact through my work </h3>
+I look forward to working in software developement/design and making an impact through my work </h3>
 
 <h3 >Connect with me:</h3>
 <p >
