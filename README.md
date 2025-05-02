@@ -2,9 +2,10 @@
 <h3>Frontend developer focused on perfecting the art of Full Stack Developement  <br>
  A good program brings in new customers, but good UI is what makes them stay  <br>
 I look forward to working in software developement/design and making an impact through my work
-\n
-My end goal is developing a successful startup that benefits me and my community</h3>
-
+</h3>
+<h3>
+ My end goal is developing a successful startup that benefits me and my community
+</h3>
 <h3 >Connect with me:</h3>
 <p >
 <a href="https://linkedin.com/in/kareem-muftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-muftee" height="30" width="40" /></a>
