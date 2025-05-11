@@ -5,6 +5,7 @@ I look forward to working in software developement/design and making an impact t
 </h3>
 <h3>
  My end goal is developing a successful startup that benefits me and my community
+ 
 </h3>
 <h3 >Connect with me:</h3>
 <p >
