@@ -2,7 +2,7 @@
 
 <h3 align="center">
   Frontend developer focused on perfecting the art of Full Stack Development.<br>
-  <em>"A good program brings in new customers, but good UI is what makes them stay."</em><br>
+  <em>"You write the code to get noticed; you design the UI to be remembered."</em><br>
   I look forward to working in software development and design, and making an impact through my work.
 </h3>
 
