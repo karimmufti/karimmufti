@@ -36,7 +36,13 @@ I look forward to working in software developement/design and making an impact t
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/SwiftUI_Logo.svg" alt="swiftui" width="40" height="40"/>
+    <img src="https://github.com/krokyze/devicon/raw/master/icons/swiftui/swiftui-original.svg" alt="swiftui" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  </a>
+</p>
+
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
