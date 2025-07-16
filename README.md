@@ -1,13 +1,13 @@
 <h1 align="center">Kareem Muftee</h1>
 
 <h3 align="center">
-  Frontend developer focused on perfecting the art of Full Stack Development.<br>
+  Frontend enthusiast focused on perfecting Full Stack Development.<br>
   <em>"You write the code to get noticed; you design the UI to be remembered."</em><br>
   I look forward to working in software development and design, and making an impact through my work.
 </h3>
 
 <h3 align="center">
-  My end goal is to develop a successful startup that benefits both me and my community.
+  My long-term goal is to launch a successful startup that makes life better for both me and my community.
 </h3>
 
 <h3 align="left">Connect with me:</h3>
