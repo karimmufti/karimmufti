@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Kareem Muftee</strong></h1>
+<h1 align="left"><strong>Kareem Muftee</strong></h1>
 
 <p align="left">
   I'm a frontend enthusiast focused the perfecting full stack and mobile development.<br>
