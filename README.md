@@ -1,24 +1,17 @@
-<h1 align="center">Kareem Muftee</h1>
+<h1 align="center"><strong>Kareem Muftee</strong></h1>
 
-<h3 align="center">
-  Frontend enthusiast focused on perfecting Full Stack Development.<br>
+<p align="left">
+  I'm a frontend enthusiast exploring the world of full stack and mobile development.<br>
   <em>"You write the code to get noticed; you design the UI to be remembered."</em><br>
-  I look forward to working in software development and design, and making an impact through my work.
-</h3>
-
-<h3 align="center">
+  I look forward to working in software development and design, and making an impact through my work.<br><br>
   My long-term goal is to launch a successful startup that makes life better for both me and my community.
-</h3>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/kareem-muftee" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/karimmufti" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
+  • <a href="https://linkedin.com/in/kareem-muftee" target="_blank">LinkedIn</a><br>
+  • <a href="https://github.com/karimmufti" target="_blank">GitHub</a><br>
+  • <a href="https://stackoverflow.com/users/31051924/karim" target="_blank">Stack Overflow</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
