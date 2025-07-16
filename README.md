@@ -11,7 +11,6 @@ I look forward to working in software developement/design and making an impact t
 <p >
 <a href="https://linkedin.com/in/kareem-muftee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kareem-muftee" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -36,13 +35,7 @@ I look forward to working in software developement/design and making an impact t
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/krokyze/devicon/raw/master/icons/swiftui/swiftui-original.svg" alt="swiftui" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  </a>
-</p>
-
+    <img src="https://github.com/Jake-Short/devicon/blob/icons/icons/swiftui/swiftui-original.svg?raw=true" alt="swiftui" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
