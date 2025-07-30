@@ -4,7 +4,7 @@
   I'm a frontend enthusiast focused the perfecting full stack and mobile development.<br>
   <em>"You write the code to get noticed; I design the UI to be remembered."</em><br>
   I look forward to working in software development and design, and making an impact through my work.<br><br>
-  My long-term goal is to launch a successful startup that makes life better for both me and my community.
+  My long-term goal is to build something that is beneficial to both my community and me
 </p>
 
 <h3 align="left">Connect with me:</h3>
