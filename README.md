@@ -7,6 +7,7 @@
   My long-term goal is to build something that is beneficial to both my community and me
 </p>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   • <a href="https://linkedin.com/in/kareem-muftee" target="_blank">LinkedIn</a><br>
