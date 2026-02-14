@@ -1,4 +1,4 @@
-<h1 align="left"><strong>Kareem Muftee</strong></h1> <p align="left"> I'm a frontend design enthusiast </p> <h3 align="left">Connect with me:</h3> <p align="left"> • <a href="https://linkedin.com/in/kareem-muftee" target="_blank">LinkedIn</a><br> • <a href="https://github.com/karimmufti" target="_blank">GitHub</a><br> </p>
+<h1 align="left"><strong>Kareem Muftee</strong></h1> <p align="left"> I'm a frontend design enthusiast </p> <h3 align="left">Connect with me:</h3> <p align="left"> • <a href="https://linkedin.com/in/kareem-muftee" target="_blank">LinkedIn</a><br> • <a href="https://github.com/karimmufti" target="_blank">GitHub</a> </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
