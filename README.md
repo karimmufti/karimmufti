@@ -66,14 +66,6 @@
 <a href="https://karimmufti.com"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 
 
-
-
-<img width="16" height="16" alt="linkedin-16" src="https://github.com/user-attachments/assets/6a2e052c-d214-41cf-b361-61f9d558e7ed" />
-
-
-<img width="32" height="32" alt="linkedin-32" src="https://github.com/user-attachments/assets/fa470769-5eaa-4fde-8dd1-febc0aa8ca05" />
-
-
 <img width="24" height="24" alt="linkedin-24" src="https://github.com/user-attachments/assets/97e80fd2-f1c2-491e-9d29-252ce35a34f3" />
 
 
