@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<h3>Things I know and use 🌱</h3>
+<h3>Things I know and use </h3>
 
 <table>
   <tr>
