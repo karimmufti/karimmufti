@@ -1,3 +1,4 @@
+<img width="16" height="16" alt="linkedin-16" src="https://github.com/user-attachments/assets/aae0eeea-825c-45f1-8088-6365242f190c" />
 <div align="center">
   <h1>Kareem Muftee</h1>
 </div>
@@ -62,3 +63,9 @@
 <a href="https://github.com/karimmufti"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kareem-muftee"><img src="https://cdn.simpleicons.org/linkedin/white" width="30"/></a><a href="https://x.com/K_mufti_"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://karimmufti.com"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+
+
+
+
+<img width="16" height="16" alt="linkedin-16" src="https://github.com/user-attachments/assets/6a2e052c-d214-41cf-b361-61f9d558e7ed" />
+
