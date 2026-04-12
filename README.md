@@ -60,18 +60,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=karimmufti&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmufti&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
+---
 
-<a href="https://github.com/karimmufti"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kareem-muftee"><img src="https://cdn.simpleicons.org/linkedin/white" width="30"/></a><a href="https://x.com/K_mufti_"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://karimmufti.com"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://github.com/karimmufti"><img width="24" height="24" alt="github-8-24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" /></a>
+<a href="https://linkedin.com/in/kareem-muftee"><img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" /></a>
+<a href="https://x.com/K_mufti_"><img width="24" height="24" alt="twitter-x-24" src="https://github.com/user-attachments/assets/66a6d5ae-0100-4bf7-8706-d6f9f67ade71" /></a>
+<a href="https://yourwebsite.com"><img width="24" height="24" alt="icons8-website-24" src="https://github.com/user-attachments/assets/2cc26deb-01d8-48ba-8f53-676bfcd34138" /></a>
 
-
-
-<img width="24" height="24" alt="github-8-24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" />
-
-
-<img width="24" height="24" alt="twitter-x-24" src="https://github.com/user-attachments/assets/66a6d5ae-0100-4bf7-8706-d6f9f67ade71" />
-
-<img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" />
-
-<img width="24" height="24" alt="icons8-website-24" src="https://github.com/user-attachments/assets/2cc26deb-01d8-48ba-8f53-676bfcd34138" />
