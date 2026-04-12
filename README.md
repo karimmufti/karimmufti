@@ -14,13 +14,13 @@
 <h3>Things I know and use </h3>
 
 <table>
+  <table>
   <tr>
-    <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7DF1E&width=120&lines=Languages" alt="Languages"/></th>
-    <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=47A248&width=120&lines=Databases" alt="Databases"/></th>
-    <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2496ED&width=150&lines=Infrastructure" alt="Infrastructure"/></th>
-    <th><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=61DAFB&width=200&lines=Frameworks+%26+Tools" alt="Frameworks & Tools"/></th>
+    <th><img src="https://img.shields.io/badge/Languages-F7DF1E?style=for-the-badge&logoColor=black"/></th>
+    <th><img src="https://img.shields.io/badge/Databases-47A248?style=for-the-badge&logoColor=white"/></th>
+    <th><img src="https://img.shields.io/badge/Infrastructure-2496ED?style=for-the-badge&logoColor=white"/></th>
+    <th><img src="https://img.shields.io/badge/Frameworks & Tools-61DAFB?style=for-the-badge&logoColor=black"/></th>
   </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
