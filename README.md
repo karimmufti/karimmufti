@@ -1,5 +1,4 @@
-<img width="24" height="24" alt="linkedin-24" src="https://github.com/user-attachments/assets/82e39fbb-9264-439d-b4b5-baf7467256c4" />
-<img width="16" height="16" alt="linkedin-16" src="https://github.com/user-attachments/assets/aae0eeea-825c-45f1-8088-6365242f190c" />
+
 <div align="center">
   <h1>Kareem Muftee</h1>
 </div>
