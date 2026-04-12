@@ -2,10 +2,10 @@
   <h1>Kareem Muftee</h1>
 </div>
 
-- 🔧 I build things, watch them break, fix them, then repeat
-- 🚀 CS student at UIC graduating May 2027 — building things most students haven't heard of yet
-- ⚡ Specializing in distributed systems, GPU computing, and figuring out why it worked on my machine
-- 🌐 How to reach me: [Portfolio](https://yourwebsite.com) or [LinkedIn](https://linkedin.com/in/kareem-muftee)
+- I build things, watch them break
+- S student at UIC graduating May 2027 
+- Specializing in distributed systems, Full stack development and learning new things everyday
+- How to reach me: [Portfolio](https://yourwebsite.com) or [LinkedIn](https://linkedin.com/in/kareem-muftee)
 
 ---
 
