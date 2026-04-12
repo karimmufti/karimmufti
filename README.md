@@ -58,7 +58,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=karimmufti&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmufti&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
----<a href="https://github.com/karimmufti"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<a href="https://github.com/karimmufti"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kareem-muftee"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=linkedin&logoColor=white&label="/></a>
 <a href="https://x.com/K_mufti_"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://karimmufti.com"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
