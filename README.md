@@ -74,4 +74,4 @@
 
 <img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" />
 
-<img width="50" height="50" alt="icons8-website-50" src="https://github.com/user-attachments/assets/b3bf2e56-080d-4645-a1cc-7e5acdb17526" />
+<img width="24" height="24" alt="icons8-website-24" src="https://github.com/user-attachments/assets/2cc26deb-01d8-48ba-8f53-676bfcd34138" />
