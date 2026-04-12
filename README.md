@@ -68,4 +68,11 @@
 
 <img width="24" height="24" alt="linkedin-24" src="https://github.com/user-attachments/assets/97e80fd2-f1c2-491e-9d29-252ce35a34f3" />
 
+<img width="24" height="24" alt="github-8-24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" />
+
+
+<img width="24" height="24" alt="twitter-x-24" src="https://github.com/user-attachments/assets/66a6d5ae-0100-4bf7-8706-d6f9f67ade71" />
+
+
+<img width="24" height="24" alt="google-scholar-24" src="https://github.com/user-attachments/assets/eeebecdb-962b-406e-8880-d6cf0ae5c3c8" />
 
