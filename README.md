@@ -5,7 +5,7 @@
 - I build things, watch them break
 - S student at UIC graduating May 2027 
 - Specializing in distributed systems, Full stack development and learning new things everyday
-- Check out my website: [Portfolio](karimmufti.com) or [LinkedIn](https://linkedin.com/in/kareem-muftee)
+- Check out my website: [Website](https://karimmufti.com) or [LinkedIn](https://linkedin.com/in/kareem-muftee)
 
 ---
 
