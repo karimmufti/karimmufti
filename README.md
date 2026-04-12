@@ -1,40 +1,59 @@
-<h1 align="left"><strong>Kareem Muftee</strong></h1> <p align="left"> System design enthusiast </p> <h3 align="left">Connect with me:</h3> <p align="left"> • <a href="https://linkedin.com/in/kareem-muftee" target="_blank">LinkedIn</a><br> • <a href="https://github.com/karimmufti" target="_blank">GitHub</a> </p>
+<div align="center">
+  <h1>Kareem Muftee</h1>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <!-- Existing -->
+  <p>
+    🔧 I build things, watch them break, fix them, then repeat<br>
+    🚀 CS student at UIC graduating May 2027 — building things most students haven't heard of yet<br>
+    ⚡ Specializing in distributed systems, GPU computing, and figuring out why it worked on my machine<br>
+    🌐 <a href="https://yourwebsite.com">yourwebsite.com</a>
+  </p>
+
+  <a href="https://linkedin.com/in/kareem-muftee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/karimmufti"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+---
+
+## <span style="color:#f7df1e">Languages</span>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
-
-  <!-- Added -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Frameworks & Backend Tools:</h3>
-<p align="left">
+## <span style="color:#61dafb">Frameworks & Tools</span>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Databases / Infrastructure:</h3>
-<p align="left">
+## <span style="color:#f05032">Databases & Infrastructure</span>
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-
 </p>
 
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimmufti&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmufti&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
