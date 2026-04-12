@@ -74,5 +74,4 @@
 
 <img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" />
 
-<img width="24" height="24" alt="google-scholar-24" src="https://github.com/user-attachments/assets/eeebecdb-962b-406e-8880-d6cf0ae5c3c8" />
-
+<img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" />
