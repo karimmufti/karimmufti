@@ -8,7 +8,7 @@
 - S student at UIC graduating May 2027 
 - Specializing in distributed systems, Full stack development and learning new things everyday
 - Send me an Email: Karroomdj2005@gmail.com
-- Check out my website: [KarimMufti.com](https://karimmufti.com)
+- Check out my website: [KareemMuftee.com](https://karimmufti.com)
 
 
 ---
