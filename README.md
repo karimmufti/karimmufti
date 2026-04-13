@@ -57,11 +57,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=karimmufti&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmufti&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
----
-
 <a href="https://github.com/karimmufti"><img width="24" height="24" alt="github-8-24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" /></a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/kareem-muftee"><img width="24" height="24" alt="linkedin-3-24" src="https://github.com/user-attachments/assets/66bca498-46f8-4a15-bb52-a1246855fa2e" /></a>
