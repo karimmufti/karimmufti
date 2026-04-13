@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<h3>Things I know and use </h3>
+<h3>Tech Stack</h3>
 
 <table>
   <table>
