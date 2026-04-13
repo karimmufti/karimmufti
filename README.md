@@ -7,7 +7,9 @@
 - I build things, watch them break
 - S student at UIC graduating May 2027 
 - Specializing in distributed systems, Full stack development and learning new things everyday
-- Check out my website: [Website](https://karimmufti.com) 
+- Check out my website: [Website](https://karimmufti.com)
+- Send me an Email: Karroomdj2005@gmail.com
+
 
 ---
 
