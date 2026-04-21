@@ -2,7 +2,7 @@
   <h1>Kareem Muftee</h1>
 </div>
 
-- I build things, watch them break
+- I build things then watch them break
 - Specializing in distributed systems, full-stack development, and learning new things every day
 - Send me an Email: Karroomdj2005@gmail.com
 - Check out my website: [KareemMuftee.com](https://karimmufti.com)
