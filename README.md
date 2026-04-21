@@ -58,7 +58,7 @@
 
 ---
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 12px;">
   <a href="https://github.com/karimmufti">
     <img width="24" height="24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" />
   </a>
@@ -71,4 +71,4 @@
   <a href="https://yourwebsite.com">
     <img width="24" height="24" src="https://github.com/user-attachments/assets/2cc26deb-01d8-48ba-8f53-676bfcd34138" />
   </a>
-</p>
+</div>
