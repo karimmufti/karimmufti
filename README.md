@@ -59,7 +59,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/karimmufti">
+        <a href="https://github.com/k-mufti">
           <img width="24" height="24" src="https://github.com/user-attachments/assets/b57c0b22-6240-442a-9bc8-8c68ecb29619" />
         </a>
       </td>
