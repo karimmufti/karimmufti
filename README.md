@@ -6,6 +6,7 @@
 - Send me an Email: kareem.muftee@gmail.com
 - Check out my website: [KareemMuftee.com](https://kareemmuftee.com)
 - Check out my project: [kmufti.com](https://kmufti.com)
+
 ---
 
 <div align="center">
