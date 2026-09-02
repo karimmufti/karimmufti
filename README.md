@@ -7,8 +7,6 @@
 - Check out my website: [KareemMuftee.com](https://kareemmuftee.com)
 - Check out my project: [kmufti.com](https://kmufti.com)
 
-
----
 <div align="center">
   <h3>Tech Stack</h3>
 
