@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Kareem Muftee</h1>
 </div>
-
 - I build things then watch them break
 - Specializing in distributed systems, full-stack development, and learning new things every day
 - Send me an Email: kareem.muftee@gmail.com
